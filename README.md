@@ -23,11 +23,6 @@ Este projeto foi desenvolvido como parte de um desafio educacional para monitora
 3. **Armazenamento de Dados**: Se a hora atual for diferente da última hora registrada, a leitura de temperatura e o horário são armazenados em um array.
 4. **Serial Monitor**: Todas as leituras armazenadas são impressas no Serial Monitor para monitoramento e análise.
 
-## Código Fonte
-
-```cpp
-// Código fonte aqui
-```
 
 ## Como Executar o Projeto
 1. **Montagem do Circuito**:
