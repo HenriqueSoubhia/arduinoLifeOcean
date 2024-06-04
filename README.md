@@ -23,7 +23,6 @@ Este projeto foi desenvolvido como parte de um desafio educacional para monitora
 3. **Armazenamento de Dados**: Se a hora atual for diferente da última hora registrada, a leitura de temperatura e o horário são armazenados em um array.
 4. **Serial Monitor**: Todas as leituras armazenadas são impressas no Serial Monitor para monitoramento e análise.
 
-
 ## Como Executar o Projeto
 1. **Montagem do Circuito**:
    - Conecte o sensor DHT22 ao pino 2 do Arduino.
@@ -37,6 +36,13 @@ Este projeto foi desenvolvido como parte de um desafio educacional para monitora
 3. **Visualização dos Dados**:
    - Abra o Serial Monitor no Arduino IDE para visualizar os dados armazenados.
    - Observe os dados de temperatura e horário sendo exibidos no display LCD.
+
+## Fotos do Projeto
+
+![Circuito do Projeto](arduinoLifeOcean.png)
+
+*Legenda: Circuito montado com Arduino, sensor DHT22, display LCD e RTC DS3231.*
+
 
 ## Observações
 - Este projeto usa a temperatura da água como um indicador indireto para monitorar os efeitos da eutrofização, devido à limitação dos sensores disponíveis no simulador.
