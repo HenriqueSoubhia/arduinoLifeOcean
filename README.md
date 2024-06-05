@@ -1,7 +1,7 @@
 # Projeto de Monitoramento da Eutrofização com Arduino
 
 ## Descrição do Projeto
-Este projeto foi desenvolvido como parte de um desafio educacional para monitorar e analisar os efeitos da eutrofização em corpos d'água. Utilizamos um sistema baseado em Arduino para medir a temperatura da água, já que o simulador não oferece sensores de oxigenação disponíveis. O objetivo principal é fornecer dados em tempo real que podem ser usados para entender melhor a relação entre a eutrofização e as variações de temperatura da água.
+Este projeto foi desenvolvido como parte de um desafio educacional para monitorar e analisar os efeitos da eutrofização em corpos d'água. Utilizamos um sistema baseado em Arduino para medir a temperatura da água, já que o simulador não oferece sensores de oxigenação disponíveis. O objetivo principal é fornecer dados em tempo real que podem ser usados para entender melhor a relação entre a eutrofização e as variações de oxigenação da água.
 
 ## Componentes Utilizados
 - **Arduino UNO**
